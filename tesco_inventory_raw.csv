@@ -1,0 +1,64 @@
+snapshot_date,warehouse_id,warehouse_city,product_id,product_name,category,on_hand_qty,reorder_level,unit_cost,last_restock_date
+05-Sep-2026,WH03,"Dallas, TX",P101,Pepsi_Cola_500ml,beverage,99999,150,$0.85,2099-12-31
+,WH02,Dalas,P310,Lay's Classic 150g (OLD),SNACKS,  300 ,150,"1,1",2099-12-31
+2026-13-45,wh03,ATL,P204,Gatorade Lemon-Lime 600ml (OLD),Beverage ,zero,400,,2026-09-04
+2026/09/05,,Chicago,P620,TROPICANA ORANGE JUICE 1L,Snack,1734,N/A,NULL,2099-12-31
+04-Sep-2026,WH02,"Dallas, TX",P-310,Tropicana Orange Juice 1L,N/A,-80,400,1.750000,TBD
+2026/09/02,WH01,Dallas, P105,Mountain Dew 500ml (OLD),N/A,850 units,4OO,$0.8,1900-01-01
+2026-13-45,WH01,"Dallas, TX",P999,Doritos Nacho Cheese 180g,Snacks ,NULL,150,0,N/A
+Sept 4th 2026,Warehouse 1,Chicgo,P-310, Mountain Dew 500ml  ,Beverage,1.2k,150,$0.8,TBD
+2026-09-10,WH02,Chicago,P204,Gatorade Lemon-Lime 600ml (OLD),Beverage ,850 units,400,,last week
+Sept 4th 2026,,chicago,P620,Tropicana_Orange_Juice_1L,BEVERAGE,,N/A,"1,75",
+09/01/26,WH-01,Dallas,P518, Quaker Oats Bar 6-pack  ,N/A,1.2k,200,0,last week
+01-Sep-2026,,ATL,P101, Pepsi Cola 500ml  ,BEVERAGE,2000,150,0.85,2099-12-31
+2026-13-45,Warehouse 1,DALLAS,P315,KURKURE MASALA MUNCH 100G,N/A,1.2k,N/A,0.7,2099-12-31
+2026-09-07,WH03,Atlanta,P101,pepsi cola 500ml,beverage,1.2k,300,0,2099-12-31
+09/05/26,WH02,Chicago,P105,Mountain Dew 500ml,Misc,850 units,200,NULL,
+,WH01,dallas,P-310,DORITOS NACHO CHEESE 180G,SNACKS,1412,150,1.45,2026-08-29
+2026/09/06,WH01,Dallas,P310,Lay's Classic 150g (OLD),,99999,500,1.10000,last week
+2026-09-05,WH02,Chicago,P105,Mountain Dew 500ml,Beverage,950
+Sept 4th 2026,WH01,ATL,P204,gatorade lemon-lime 600ml,BEVERAGE,-45,4OO,,23/08/2026
+2026-09-05,WH01,Dallas,P101,"Pepsi, Cola ""Classic"" 500ml",Beverage,1200,400,0.85,2026-08-28
+2026-09-03,WH03,"Dallas, TX",P101,Pepsi Cola 500ml (OLD),Snacks & Chips,NULL,400,,last week
+,,,,,,,,,
+09/01/26,,Chicgo,P412,Doritos Nacho Cheese 180g,Snacks & Chips,,,0,1900-01-01
+,,Atlanta,P412,Doritos Nacho Cheese 180g,,  300 ,-100,free,last week
+Sept 4th 2026,Warehouse 1,Dalas, P204, Gatorade Lemon-Lime 600ml  ,Snack,,400,1.60000,
+09/05/26,wh03,,P412,Doritos Nacho Cheese 180g (OLD),Snacks,850 units,4OO,-1.45,2026-08-06
+03-Sep-2026,WH02,Chicago,P999,Kurkure Masala Munch 100g,Snacks & Chips,850 units,500,0.70000,N/A
+2026/09/06,WH02,Chicago,, Kurkure Masala Munch 100g  ,Snack,zero,N/A,$0.7,TBD
+,Warehouse 1,Dallas ,P-310,Doritos_Nacho_Cheese_180g,,850 units,300,free,31/08/2026
+Sept 4th 2026,WH03,Atlanta,P204,GATORADE LEMON-LIME 600ML,Snack,850 units,4OO,$1.6,01/09/2026
+2026-09-08,WH9,DALLAS,P315,Kurkure Masala Munch 100g (OLD),Misc,-6,200,"0,7",30/08/2026
+2026-09-06,,Chicago,P620,Tropicana Orange Juice 1L,Bevarage,-60,300,$1.75,last week
+09/05/26,WH03,Dalas, P412,Doritos_Nacho_Cheese_180g,SNACKS,NULL,200,1.450000,TBD
+01-Sep-2026,wh03,Atlanta,P-310,Pepsi Cola 500ml (OLD),Misc,850 units,4OO,NULL,
+2026-09-08,WH-02,Dalas,P101,PEPSI COLA 500ML,beverage,850 units,-100,NULL,2099-12-31
+2026/09/09,WH02,Chicago,P105,mountain dew 500ml,Beverage,  300 ,,0,2099-12-31
+09-Sep-2026,WH02,Chicago, P204,Gatorade_Lemon-Lime_600ml,BEVERAGE,850 units,4OO,0,1900-01-01
+2026/09/02,WH03,ATLANTA,P518, Quaker Oats Bar 6-pack  ,,-70,N/A,$2.2,1900-01-01
+2026/09/05,WH9,atlanta,P204,Gatorade_Lemon-Lime_600ml,Snacks & Chips,  300 ,200,-1.6,N/A
+2026-13-45,,Chicago,P105, Mountain Dew 500ml  ,BEVERAGE,-32,4OO,0.8,2099-12-31
+Sept 4th 2026,WH01,, P412,doritos nacho cheese 180g,N/A,484.5,150,1.45,TBD
+,WH9,Chicago,P518,Quaker_Oats_Bar_6-pack,BREAKFAST,840.5,500,-2.2,2099-12-31
+2026/09/02,WH01,Dallas,P315,KURKURE MASALA MUNCH 100G,Snacks & Chips,99999,200,0.70000,2099-12-31
+Sept 4th 2026,WH01,Dallas,,Doritos Nacho Cheese 180g,,850 units,200,-1.45,2026-08-21
+2026-09-02,,Atlanta,,,Snacks & Chips,,150,0,TBD
+2026-09-02,,Atlanta,,,Snacks & Chips,,150,0,TBD
+Sept 4th 2026,WH03,Chicgo,P204,Gatorade Lemon-Lime 600ml (OLD),Beverage ,850 units,150,1.6,1900-01-01
+09/08/26,WH01,ATL,P105, Mountain Dew 500ml  ,,99999,150,0.80000,last week
+2026-09-10,Warehouse 1,ATL, P315, Kurkure Masala Munch 100g  ,Bevarage,168,,$0.7,last week
+Sept 4th 2026,,,P315,,snacks,739,150,0.7,01/09/2026
+2026/09/04,WH9,"Dallas, TX",P310, Lay's Classic 150g  ,Bevarage,1986,300,1.10000,TBD
+2026-13-45,WH02,CHICAGO,p315,Kurkure Masala Munch 100g,Misc,,500,,2026-08-13
+2026-13-45,WH03,ATLANTA,P105,MOUNTAIN DEW 500ML,N/A,850 units,200,0.8,23/08/2026
+2026/09/04,WH9,"Dallas, TX",P310, Lay's Classic 150g  ,Bevarage,1986,300,1.10000,TBD
+2026-09-02,WH02,Chicago,P999,doritos nacho cheese 180g,N/A,1.2k,500,1.45,2099-12-31
+Sept 4th 2026,Warehouse 1,Chicago,P-310, Quaker Oats Bar 6-pack  ,Snacks & Chips,99999,N/A,2.2,30/08/2026
+,WH9,Chicago,P518,Quaker_Oats_Bar_6-pack,BREAKFAST,840.5,500,-2.2,2099-12-31
+2026-09-04,WH02,Chicago,P620,,N/A,1.2k,4OO,$1.75,last week
+Sept 4th 2026,wh03,Atlanta,p204,Gatorade Lemon-Lime 600ml,Beverage ,zero,,,N/A
+09/07/26,WH02,CHICAGO,P999,Pepsi_Cola_500ml,N/A,850 units,N/A,"0,85",N/A
+09-Sep-2026,WH02,Chicago, P204,Gatorade_Lemon-Lime_600ml,BEVERAGE,850 units,4OO,0,1900-01-01
+09/01/26,WH02,Chicago ,P310,Lay's Classic 150g,Snacks ,  300 ,300,-1.1,TBD
+2026-13-45,,Chicago,,Mountain Dew 500ml (OLD),BEVERAGE,-39,400,"0,8",last week
