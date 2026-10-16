@@ -1,0 +1,22 @@
+store_id,store_name,store_city,store_state,store_type,region,manager_name,open_date,is_active,square_feet,contact_number
+ST001,Downtown Seattle,Seattle,WA,Flagship,West,John Smith,2020-01-15,Yes,2500,206-555-0101
+ST002,Houston Galleria,HOUSTON,tx,Mall,South,SARAH LEE,15/02/2020,yes,1800,713-555-0102
+ST003,Phoenix - Central,phx,AZ,OUTLET,West,john smith ,03-10-2019,Y,1500,602-555-0103
+ST004,Miami Beach Store,miami,FL,Flagship,South-East, Raj Patel,2021/05/20,True,3000,305-555-0104
+ST005,New York - 5th Ave,NYC,NY,flagship,North-East,Sarah Lee,"April 12, 2020",1,4000,212-555-0105
+ST006,Los Angeles Downtown,LA,ca,Mall,West, mike johnson,2020/06/10,YES,2200,213-555-0106
+ST007,Chicago Magnificent Mile,CHICAGO,il,Flagship,Midwest,EMILY CHEN,12-25-2019,Yes,3500,312-555-0107
+ST008,Austin Domain,austin,TX,Outlet,South,David Wilson,2019-11-05,yes,1600,512-555-0108
+ST009,Boston Prudential,bostn,MA,MALL,North-East,Lisa Brown,07/08/2021,Y,2000,617-555-0109
+ST010,San Francisco Union Square,San Francisco,CA,FLAGSHIP,West,Robert Garcia,2022-01-30,True,3800,415-555-0110
+ST011,Dallas NorthPark,dallas,Tx,Mall,South,Jennifer Davis,"March 3, 2020",1,2100,214-555-0111
+ST012,Denver Cherry Creek,denver,CO,Outlet,West,Michael Miller,2020-09-18,YES,1700,303-555-0112
+ST013,Atlanta Lenox,ATLANTA,ga,Flagship,South-East,Amanda Taylor,10/10/2020,Yes,2700,404-555-0113
+ST014,Portland Pioneer Place,portland,OR,Mall,West,Chris Anderson,2021-02-14,yes,1900,503-555-0114
+ST015,Las Vegas Strip,LAS VEGAS,nv,FLAGSHIP,West,Jessica Thomas,05-05-2021,Y,3200,702-555-0115
+ST016,Philadelphia King Of Prussia,philly,PA,Mall,North-East,Daniel Moore,2020-12-01,True,2600,610-555-0116
+ST017,San Diego Fashion Valley,san diego,Ca,Outlet,West,Michelle Jackson,2021/08/22,1,1800,619-555-0117
+ST018,Detroit Somerset,DETROIT,mi,Mall,Midwest,Kevin White,11/11/2019,YES,2000,248-555-0118
+ST019,Nashville Green Hills,nashville,TN,Flagship,South-East,Ashley Harris,"June 15, 2021",Yes,2400,615-555-0119
+ST020,Orlando Millenia,orlando,FL,OUTLET ,South-East,Brian Clark,2022/03/10,yes,1650,407-555-0120
+ONLINE,Online Store,Online,Online,Online,Online,JOHN SMITH,2020-07-01,YES,0,800-555-0199
